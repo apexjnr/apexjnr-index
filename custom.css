@@ -25,10 +25,10 @@ body {
 
 .center-holder {
 	padding-top: 30px;
-	padding-left: 30px;
-	padding-right: 30px;
 }
-
+.cetner-content{
+    padding: 0px 15px;
+}
 h1 {
     width: 100%;
     float: left;
